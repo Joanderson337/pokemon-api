@@ -1,9 +1,7 @@
 {
-  "name": "codeboost-gulp",
+  "name": "poke-api",
   "version": "1.0.0",
-  "description": "Um projeto criado par ao codeboost",
   "main": "index.js",
-  "author": "William Moreira",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.16.0",
